@@ -1,0 +1,30 @@
+{
+  "years": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+  ],
+  "accident": {
+    "year": "2020",
+    "month": 9
+  },
+  "administrative": {
+    "year": "2020",
+    "month": 9
+  },
+  "civil": {
+    "year": "2020",
+    "month": 12
+  },
+  "criminal": {
+    "year": "2020",
+    "month": 9
+  },
+  "ersop": {
+    "year": "2020",
+    "month": 12
+  }
+}
